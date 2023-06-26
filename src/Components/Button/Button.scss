@@ -1,0 +1,21 @@
+
+.cont{
+    height: 100px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .login-button{
+        background-color: white;
+        height: 50px;
+        width: 100px;
+        color: black;
+        border-radius: 15px;
+        border: transparent;
+    }
+    .login-button:hover{
+        height: 55px;
+        width: 105px;
+    }
+
+}
